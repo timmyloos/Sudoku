@@ -13,7 +13,7 @@ This project is a fully interactive Sudoku game built with Python and Pygame. Pl
 ## Usage
 #### Academic Integrity Notice:
 >
-If you are a student in COP3502C at the University of Florida, you are strongly advised not to submit or use this code as your own work. Doing so would constitute plagiarism, which can result in severe academic consequences. Use this repository only for learning and reference purposes.
+>If you are a student in COP3502C at the University of Florida, you are strongly advised not to submit or use this code as your own work. Doing so would constitute plagiarism, which can result in severe academic consequences. Use this repository only for learning and reference purposes.
 >
 ### 1. Install Python
 Ensure you have Python 3.8+ and a compiler installed on your system. If not, download it from python.org.
