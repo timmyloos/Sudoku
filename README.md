@@ -1,4 +1,4 @@
-# Sudoku - Fall 2023 Project
+# Sudoku - Spring 2023 Project
 ## About
 This project is a fully interactive Sudoku game built with Python and Pygame. Players can select difficulty levels, solve puzzles, and receive feedback on their performance.
 > Features:
